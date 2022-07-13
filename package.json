@@ -1,0 +1,23 @@
+{
+  "name": "birthday-1",
+  "version": "1.0.0",
+  "description": "Guess birthday",
+  "main": "birthday.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matte-134/birthday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matte-134/birthday/issues"
+  },
+  "homepage": "https://github.com/matte-134/birthday#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
